@@ -1,16 +1,80 @@
-## Hi there 👋
+## 👋 Hi 人，你来了~
 
-<!--
-**FanXinyue191/FanXinyue191** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一名 **生物信息分析工程师**，主要从事  
+**多组学数据分析、单细胞转录组分析以及生物信息分析工具与报告系统的开发**。
 
-Here are some ideas to get you started:
+我曾为 **科研机构、医院及生物医药企业** 提供生物信息分析与计算支持，
+帮助将复杂的生物数据转化为 **可解释、可复现、可用于决策的分析结果**。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧬 专业方向
+
+- 单细胞 RNA 测序（scRNA-seq）
+- Bulk RNA-seq / WES / WGS / mNGS
+- 多组学整合分析（TCGA / DepMap / GTEx / HPA）
+- 细胞类型注释、差异分析、通路分析
+- 生物标志物挖掘与药物靶点评估
+
+---
+
+## 🛠 技术栈
+
+**编程语言**
+- R / Python / Bash
+
+**分析与框架**
+- Seurat / Scanpy
+- Shiny / R Markdown
+- Snakemake
+
+**数据库与数据管理**
+- RSQLite / HDF5
+
+**可视化**
+- ggplot2 / ComplexHeatmap
+
+**部署与工程**
+- Docker
+- Domino
+
+---
+
+## 💡 我可以提供的服务
+
+- 生物信息分析流程的设计与实现（可复现）
+- 单细胞数据分析与可视化
+- 多组学数据整合分析
+- 内部使用的分析工具 / Shiny App 开发
+- 自动化分析报告（Word / HTML）
+- 论文级别图表与结果整理
+
+适用于：
+- 科研项目
+- 医院转化研究
+- 生物医药 / 制药企业内部分析支持
+
+---
+
+## 📄 论文与科研成果
+
+- 以作者或共同作者身份参与多篇论文发表  
+- 为多个科研及转化研究项目提供数据分析支持，并协助完成论文发表
+
+👉 详细列表见：[Publications](./publications)
+
+---
+
+## 📂 仓库导航
+
+- 🧰 **生物信息分析工具**：
+- 📊 **细胞注释工具**：
+
+---
+
+## 📫 联系方式
+
+- Email：fanxinyue191@gmail.com
+- GitHub：@FanXinyue191
+
+欢迎科研合作、技术交流或项目咨询。
