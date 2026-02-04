@@ -1,7 +1,6 @@
 ## 👋 Hi 人，你来了~
 
-我是一名 **生物信息分析工程师**，主要从事  
-**多组学数据分析、单细胞转录组分析以及生物信息分析工具与报告系统的开发**。
+我是一名独立**生物数据分析师**，主要从事**多组学数据分析、单细胞转录组分析以及生物信息分析工具与报告系统的开发**。
 
 我曾为 **科研机构、医院及生物医药企业** 提供生物信息分析与计算支持，
 帮助将复杂的生物数据转化为 **可解释、可复现、可用于决策的分析结果**。
@@ -58,10 +57,15 @@
 
 ## 📄 论文与科研成果
 
-- 以作者或共同作者身份参与多篇论文发表  
-- 为多个科研及转化研究项目提供数据分析支持，并协助完成论文发表
+### 本人研究成果
+- [Dong W, **Fan X**, Guo Y, et al., An expanded database and analytical toolkit for identifying bacterial virulence factors and their associations with chronic diseases, *Nat Commun* 2024.](https://www.nature.com/articles/s41467-024-51864-y)
+- [**Fan X**, et al., Effects of different preservation methods for fecal samples on the sequencing results of gut microbiota, *Acta Microbiologica Sinica* 2022](https://actamicro.ijournals.cn/html/actamicrocn/2022/2/20220211.htm)
 
-👉 详细列表见：[Publications](./publications)
+### 客户研究成果
+
+- [scRNA]
+- [scRNA + scATAC]
+
 
 ---
 
